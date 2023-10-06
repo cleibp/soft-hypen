@@ -25,7 +25,7 @@ Exemplificação de Soft Hypen
 ```sh
 .
 ├── README.md
-└── index.html
+├── index.html
 └── style.css
 ```
 
